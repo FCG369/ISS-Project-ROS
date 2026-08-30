@@ -1,5 +1,5 @@
 # ISS-Project-ROS
-An hyper-realistic mod about the Russian Orbital Segment (ROS) on the International Space Station.
+A KSP hyper-realistic mod about the Russian Orbital Segment (ROS) on the International Space Station.
 # EXPECTED FEATURES IN FIRST COMPLETE RELEASE
 SSVP and APAS ports,
 Zarya,
