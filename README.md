@@ -11,10 +11,6 @@ Pirs,
 Poisk,
 Rassvet,
 Prichal.
-# FEATURES ADDED IN LATER VERSIONS
-Canadarm 2 (SSRMS),
-European Robotic Arm (ERA),
-Dextre (SPDM).
 # 3/09/2026 -- RELEASE STATUS
 Zarya FGB (Functional Cargo Block) Modeling in Progress
 
