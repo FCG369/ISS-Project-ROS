@@ -1,7 +1,7 @@
 # ISS-Project-ROS
 A KSP hyper-realistic mod about the Russian Orbital Segment (ROS) on the International Space Station.
-# EXPECTED FEATURES IN FIRST COMPLETE RELEASE
-SSVP and APAS ports,
+# EXPECTED FEATURES IN 1.0 RELEASE
+SSVP - APAS-95 ports,
 Zarya,
 Zvezda,
 Soyuz MS,
@@ -11,6 +11,10 @@ Pirs,
 Poisk,
 Rassvet,
 Prichal.
+# FEATURES ADDED IN LATER VERSIONS
+Canadarm 2 (SSRMS),
+European Robotic Arm (ERA),
+Dextre (SPDM).
 # 3/09/2026 -- RELEASE STATUS
 Zarya FGB (Functional Cargo Block) Modeling in Progress
 
